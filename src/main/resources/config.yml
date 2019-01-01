@@ -1,6 +1,6 @@
 discord:
     token: xxxxxx
-    guild: Seventh Root
+    guild: Bitsy Talk
     channel: minecraft
 chat-sources:
     dynmap:
