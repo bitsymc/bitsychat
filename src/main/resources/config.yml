@@ -1,0 +1,11 @@
+discord:
+    token: xxxxxx
+    guild: Seventh Root
+    channel: minecraft
+chat-sources:
+    dynmap:
+        format: '&a[dynmap] %1$s: &f%2$s'
+    bitscord:
+        format: '&9[bitscord] %1$s: &f%2$s'
+    minecraft:
+        format: '&e[minecraft] %1$s: &f%2$s'
