@@ -1,7 +1,7 @@
-package uk.co.rossbinden.bitsymc.chat.dispatcher;
+package uk.co.renbinden.bitsymc.chat.dispatcher;
 
-import uk.co.rossbinden.bitsymc.chat.BitsyChat;
-import uk.co.rossbinden.bitsymc.chat.message.ChatMessage;
+import uk.co.renbinden.bitsymc.chat.BitsyChat;
+import uk.co.renbinden.bitsymc.chat.message.ChatMessage;
 
 public class MinecraftChatDispatcher implements ChatDispatcher {
 

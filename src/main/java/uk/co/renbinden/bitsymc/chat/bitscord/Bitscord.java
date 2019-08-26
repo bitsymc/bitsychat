@@ -1,4 +1,4 @@
-package uk.co.rossbinden.bitsymc.chat.bitscord;
+package uk.co.renbinden.bitsymc.chat.bitscord;
 
 import net.dv8tion.jda.core.JDA;
 import net.dv8tion.jda.core.JDABuilder;
@@ -7,9 +7,9 @@ import net.dv8tion.jda.core.events.ReadyEvent;
 import net.dv8tion.jda.core.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.core.hooks.ListenerAdapter;
 import org.bukkit.ChatColor;
-import uk.co.rossbinden.bitsymc.chat.BitsyChat;
-import uk.co.rossbinden.bitsymc.chat.message.ChatMessage;
-import uk.co.rossbinden.bitsymc.chat.message.ChatSource;
+import uk.co.renbinden.bitsymc.chat.message.ChatMessage;
+import uk.co.renbinden.bitsymc.chat.message.ChatSource;
+import uk.co.renbinden.bitsymc.chat.BitsyChat;
 
 import javax.security.auth.login.LoginException;
 

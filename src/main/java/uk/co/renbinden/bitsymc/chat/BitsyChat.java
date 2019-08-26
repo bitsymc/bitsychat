@@ -1,11 +1,12 @@
-package uk.co.rossbinden.bitsymc.chat;
+package uk.co.renbinden.bitsymc.chat;
 
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
-import uk.co.rossbinden.bitsymc.chat.bitscord.Bitscord;
-import uk.co.rossbinden.bitsymc.chat.dispatcher.*;
-import uk.co.rossbinden.bitsymc.chat.listener.AsyncPlayerChatListener;
-import uk.co.rossbinden.bitsymc.chat.listener.DynmapWebChatListener;
+import uk.co.renbinden.bitsymc.chat.bitscord.Bitscord;
+import uk.co.renbinden.bitsymc.chat.dispatcher.*;
+import uk.co.renbinden.bitsymc.chat.listener.AsyncPlayerChatListener;
+import uk.co.renbinden.bitsymc.chat.listener.DynmapWebChatListener;
+import uk.co.renbinden.bitsymc.chat.dispatcher.*;
 
 import javax.security.auth.login.LoginException;
 import java.util.logging.Level;

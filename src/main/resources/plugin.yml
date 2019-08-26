@@ -1,6 +1,6 @@
 name: bitsychat
 author: alyphen
 version: @version@
-main: uk.co.rossbinden.bitsymc.chat.BitsyChat
+main: uk.co.renbinden.bitsymc.chat.BitsyChat
 depend:
 - dynmap

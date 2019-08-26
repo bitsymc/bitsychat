@@ -1,4 +1,4 @@
-package uk.co.rossbinden.bitsymc.chat.message;
+package uk.co.renbinden.bitsymc.chat.message;
 
 public enum ChatSource {
 

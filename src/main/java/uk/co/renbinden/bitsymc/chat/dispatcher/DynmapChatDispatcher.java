@@ -1,11 +1,11 @@
-package uk.co.rossbinden.bitsymc.chat.dispatcher;
+package uk.co.renbinden.bitsymc.chat.dispatcher;
 
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 import org.dynmap.DynmapAPI;
-import uk.co.rossbinden.bitsymc.chat.BitsyChat;
-import uk.co.rossbinden.bitsymc.chat.message.ChatMessage;
-import uk.co.rossbinden.bitsymc.chat.message.ChatSource;
+import uk.co.renbinden.bitsymc.chat.BitsyChat;
+import uk.co.renbinden.bitsymc.chat.message.ChatMessage;
+import uk.co.renbinden.bitsymc.chat.message.ChatSource;
 
 public class DynmapChatDispatcher implements ChatDispatcher {
 

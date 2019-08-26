@@ -1,11 +1,11 @@
-package uk.co.rossbinden.bitsymc.chat.listener;
+package uk.co.renbinden.bitsymc.chat.listener;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.dynmap.DynmapWebChatEvent;
-import uk.co.rossbinden.bitsymc.chat.BitsyChat;
-import uk.co.rossbinden.bitsymc.chat.message.ChatMessage;
-import uk.co.rossbinden.bitsymc.chat.message.ChatSource;
+import uk.co.renbinden.bitsymc.chat.message.ChatMessage;
+import uk.co.renbinden.bitsymc.chat.message.ChatSource;
+import uk.co.renbinden.bitsymc.chat.BitsyChat;
 
 public final class DynmapWebChatListener implements Listener {
 

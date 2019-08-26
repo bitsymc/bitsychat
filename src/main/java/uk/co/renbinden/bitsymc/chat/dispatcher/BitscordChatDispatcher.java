@@ -1,8 +1,8 @@
-package uk.co.rossbinden.bitsymc.chat.dispatcher;
+package uk.co.renbinden.bitsymc.chat.dispatcher;
 
-import uk.co.rossbinden.bitsymc.chat.BitsyChat;
-import uk.co.rossbinden.bitsymc.chat.message.ChatMessage;
-import uk.co.rossbinden.bitsymc.chat.message.ChatSource;
+import uk.co.renbinden.bitsymc.chat.BitsyChat;
+import uk.co.renbinden.bitsymc.chat.message.ChatMessage;
+import uk.co.renbinden.bitsymc.chat.message.ChatSource;
 
 public class BitscordChatDispatcher implements ChatDispatcher {
 
